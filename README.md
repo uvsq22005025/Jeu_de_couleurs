@@ -1,4 +1,7 @@
 
 Projet jeu de couleurs :
 
-Boutons de couleurs: chaque bouton de couleur correspond a la couleur choisie par le joueur, et la combinaison des celles ci sera comparée à celle des couleurs affichées. 
+
+Du texte coloré s'affiche, le joueur appuie sur les boutons correspondants aux couleurs du texte et non pas la couleur indiquée.
+
+Appui sur le bouton "Démarrer": le compte à rebours est lancé et le jeu commence Appui sur le bouton "Réinitialiser": le score du joueur ainsi que le compte à rebours sont réinitialisés
